@@ -1,0 +1,9 @@
+# VMware 虚拟磁盘与导出包（超出 GitHub / Git LFS 单文件上限，详见 README）
+*.vmdk
+*.ova
+
+# VMware 运行时锁目录
+*.lck/
+
+# WorkBuddy 本地项目数据，不入库
+.workbuddy/
